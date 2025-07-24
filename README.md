@@ -1,9 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4aWFlMXBwMHZ6eHIxaWxhb2Mzc3h6bzg1eWV1Y21paXRneHR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM1fica6eQdDQOu143/giphy.gif" alt="MasterHead" height="80%" width="100%">
 
 <h1 align="center">Hi 👋, I'm Amanpreet Singh</h1>
-<h3 align="center">PLSQL++;</h3>
-<h3 align="center">MERN++;</h3>
-
+<h2 align="center">MERN stack developer</h2>
 <!-- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
 
 - 💬 Ask me about **React, Node, Express, SQL**
